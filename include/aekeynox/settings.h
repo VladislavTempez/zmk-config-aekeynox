@@ -16,7 +16,7 @@
 // #define KB_LAYOUT_DVORAK
 // #define KB_LAYOUT_ERGOL
 // #define KB_LAYOUT_ERGLACE
-#define KB_LAYOUT_QWERTY_INTL
+// #define KB_LAYOUT_QWERTY_INTL
 // #define KB_LAYOUT_QWERTY_LAFAYETTE
 
 // Some keyboard layouts and shortcuts may vary between Windows / macOS / Linux.
@@ -115,7 +115,7 @@
 // Uncomment the following line to enable shift as a pinky HRM.
 // Useful for combined shortcuts, but NOT MEANT to type text!
 
-#define HRM_SHIFT
+// #define HRM_SHIFT
 
 // [Experimental]
 // Uncomment the following line to enable a mod-hold behavior when holding
