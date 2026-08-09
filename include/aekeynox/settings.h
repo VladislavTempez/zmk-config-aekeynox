@@ -115,7 +115,7 @@
 // Uncomment the following line to enable shift as a pinky HRM.
 // Useful for combined shortcuts, but NOT MEANT to type text!
 
-#define HRM_SHIFT
+// #define HRM_SHIFT
 
 // [Experimental]
 // Uncomment the following line to enable a mod-hold behavior when holding
@@ -127,4 +127,4 @@
 // Uncomment the following line to swap Space and Backspace.
 // Beware: this increases the typing load of the left thumb.
 
-#define LEFT_HAND_SPACE
+// #define LEFT_HAND_SPACE
